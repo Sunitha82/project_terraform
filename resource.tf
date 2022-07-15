@@ -1,3 +1,3 @@
 resource "aws_eip" "elasticipone" {
-  vpc  = true
+  vpc  = "true"
   }
